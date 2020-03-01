@@ -1,6 +1,6 @@
 def valid_move?(board, index)
-  toots = "cat"
-  if toots
+  goooooo = nil
+  if goooooo
     return 'blue'
   else
     return 'red'
