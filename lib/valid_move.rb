@@ -1,10 +1,11 @@
 def valid_move?(board, index)
-  black = 'dope'
-  if black
+  if position_taken?(board, index) == false 
     return false
   else
     return true
   end
+
+
 end
 
 board = ["X", " ", "X", " ", "O", " ", " ", " ", " "]
