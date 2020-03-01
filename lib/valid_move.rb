@@ -1,9 +1,9 @@
 def valid_move?(board, index)
   black = 'dope'
   if black
-    return 'kendrick'
+    return false
   else
-    return 'kanye'
+    return true
   end
 end
 
