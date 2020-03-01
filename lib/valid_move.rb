@@ -1,8 +1,8 @@
 def valid_move?(board, index)
   toots = "cat"
-  if toots  
+  if toots
     return 'blue'
-  else 
+  else
     return 'red'
   end
 end
